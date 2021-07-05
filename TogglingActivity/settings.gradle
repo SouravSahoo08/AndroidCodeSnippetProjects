@@ -1,0 +1,2 @@
+rootProject.name='Toggling Activity'
+include ':app'
